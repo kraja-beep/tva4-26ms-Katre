@@ -1,4 +1,4 @@
-# 1. kohtumine: avaldab kausta public/ GitHub Pagesi.
+# 1. kohtumine: avaldab kausta public/ GitHub Pagesi..
 # Kopeeri oma repos asukohta .github/workflows/pages.yml
 # Settings → Pages → Source: GitHub Actions
 name: GitHub Pages
